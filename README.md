@@ -1,11 +1,9 @@
-Here's a more polished version for your GitHub README:
-
 # My-Seller-Bot
-A Discord bot integrated with KeyAuth for seamless seller management.
+A Discord bot integrated with KeyAuth for sellers.
 
 ## Getting Started
 
-### 1. Obtain Your Discord Bot Token
+### 1. Get Your Discord Bot Token
 - Visit the [Discord Developer Portal](https://discord.com/developers/applications) and create a new application.
 - Create a bot under your application and copy the token.
 - Ensure the necessary permissions are enabled for your bot. Follow this [guide](https://xvids.lol/oVQxsWySyBnvqh) for detailed instructions.
